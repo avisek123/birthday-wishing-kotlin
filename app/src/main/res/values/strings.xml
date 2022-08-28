@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyKotlin</string>
+    <string name="create_wish">Create Wish</string>
+    <string name="Input">Name</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="Hello">Hello My Name is Avisek</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="hello_there">Hello there</string>
+
+</resources>
